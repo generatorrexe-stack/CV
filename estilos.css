@@ -1,0 +1,20 @@
+.Datos{
+    display: flex;
+    gap:15px;
+    align-items: flex-start;
+}
+.DatosPersonales{    
+    display:flex;
+    flex-direction: column;
+    gap :20px;
+}
+.imagen{
+    border: 2px solid black;
+    padding: 4px;
+    width: 200px;
+    height: auto;
+}
+
+.body{
+    background-color: aqua;
+}
